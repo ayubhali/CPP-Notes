@@ -1,0 +1,59 @@
+C++
+--------------------------------------------------
+<<, >> extraction 
+
+cin - reading, cout - printing out
+
+CPP - expressions 
+--------------------------------------------------
+Area of triangle 
+a = 1/2 b h,  
+
+a = (b * h)/2;
+
+Perimiter of rectangle 
+p = 2(l + h)
+
+p = 2 * (l + h);
+
+Sum of n terms
+
+s = n(n+1)/2 
+
+s = n * (n + 1)/2;
+
+n terms of a P series 
+
+t = a +(n-1)d
+
+t = a +(n-1)*d;
+
+Quadratic root
+
+r = -b + sqrt(b^2-4ac)/2a
+
+r = (-b + sqrt((b*b) -4 * a * c))/(2*a)
+
+Speed 
+
+s = v^2 - u^2 / 2a
+
+s = (((v*v) - (u*u)) / (2*a))
+
+PI
+const double pi = 3.14159265358979323846;
+
+--------------------------------------------------
+Compound assingment 
+
+int a = 10, b = 5, c = 15;
+int sum = 5 
+
+sum = sum + a
+sum += a
+
+--------------------------------------------------
+
+Bitwise operations
+
+<< >> & ^ | ~
